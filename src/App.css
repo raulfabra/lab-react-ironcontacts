@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.images{
+  width: 100px;
+  object-fit: contain;
+}
+
+.botones{
+  padding: 1em;
+}
